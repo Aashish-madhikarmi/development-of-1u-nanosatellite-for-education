@@ -27,7 +27,7 @@ The **1U CubeSat** is a miniature satellite designed for academic purposes. It i
 ---
 
 📖 Documentation
-[CubeSat Report (Draft)](docs/report/CubeSat_Report_Draft_v0.1.pdf)
+[CubeSat Report (Draft)](docs/Report/CubeSat_Report_Draft_v0.1.pdf)
 
 ---
 
