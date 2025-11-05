@@ -17,6 +17,7 @@ The **1U CubeSat** is a miniature satellite designed for academic purposes. It i
 ---
   
 📂 Repository Structure
+
 ├─ docs/ → Reports, datasheets, and documentation
 ├─ firmware/ → Arduino & Raspberry Pi source codes
 ├─ hardware/ → KiCad PCB files and 3D models
